@@ -20,3 +20,10 @@
 // let stringval= 33;
 // let changeval = String(stringval)
 // console.log (typeof stringval)
+
+// ===============operration======================
+
+let gamecounter = 100;
+gamecounter++
+console.log(gamecounter)
+
