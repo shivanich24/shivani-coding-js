@@ -27,4 +27,10 @@ const jsuser ={
 jsuser.greeting=function(){
     console.log("heeloo js user")
 }
+jsuser.greeting2=function(){
+    console.log(`hello js userr  ${this.name}`)
+}
 console.log(jsuser.greeting())
+console.log(jsuser.greeting2())
+
+
